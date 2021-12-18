@@ -1,3 +1,4 @@
+This is not my original creation and actually belongs from andrei negoie react course
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
